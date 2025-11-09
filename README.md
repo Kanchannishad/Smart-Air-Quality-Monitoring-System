@@ -20,8 +20,5 @@ It controls a DC fan through a relay module and sends real-time updates to the B
 ## 🖥️ Tools & Technologies:
 Arduino IDE | Blynk IoT | ESP32 | C++ | IoT | Cloud Integration
 
-## 📸 Circuit and Output:
-(Add images of your circuit and setup here)
-
 ## 🔗 Author:
 👩‍💻 **Kanchan Nishad** — BSc IT Student | Aspiring Cloud & DevOps Engineer  
